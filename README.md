@@ -4,6 +4,8 @@ A clean, responsive **standard and scientific calculator** built as a single `in
 
 No frameworks, no build step, no dependencies to install — open the file and calculate.
 
+> **The challenge:** create the complete code, commit it, and push it to the repository in only 3 minutes. This is my challenge.
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
