@@ -4,12 +4,15 @@ A clean, responsive **standard and scientific calculator** built as a single `in
 
 No frameworks, no build step, no dependencies to install — open the file and calculate.
 
-> **The challenge:** create the complete code, commit it, and push it to the repository in only 3 minutes. This is my challenge.
+> **The 3-minute challenge**  
+> A complete standard & scientific calculator — hand-written expression engine, full keyboard support, responsive interface, and documentation — designed, committed, and shipped to GitHub in under three minutes.  
+> No frameworks. No build step. No compromise on the details.
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](./LICENSE)
+[![Built in under 3 minutes](https://img.shields.io/badge/built_in-under_3_minutes-d8ff4a?style=flat-square&labelColor=161910)](https://github.com/muhammadsami987123/precision-calculator)
 
 ---
 
